@@ -29,7 +29,7 @@ const LandingPageIntro =() => {
                            }}>      
      
          
-<div className="w-96 h-96 absolute rounded-full 
+<div className="w-96 h-96 absolute rounded-full hidden
 md:top-1/4 md:right-1/4 md:left-1/4" 
 
 id="popUpImage"
