@@ -62,7 +62,7 @@ className="rounded-full relative mt-9"/>
             className="flex absolute top-3/4 left-auto w-screen justify-center sm:gap-32">
        
                 <div  className="flex-center">
-                <Link to="/AboutEli"> <DecisionButton text="Accept"/> </Link>
+                <Link to="/AboutTataru"> <DecisionButton text="Accept"/> </Link>
                 </div>      
                
 
