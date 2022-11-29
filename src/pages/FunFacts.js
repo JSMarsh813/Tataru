@@ -32,7 +32,9 @@ function FunFacts(){
 
              <HorizontalWithImageBullets phrase={"Can be mischievous"}/>
 
-             <HorizontalWithImageBullets phrase={"Talented artisan and shrewd businesswoman"}/>
+             <HorizontalWithImageBullets phrase={"Talented artisan"}/>
+
+             <HorizontalWithImageBullets phrase={"Shrewd businesswoman"}/>
   
 </ul >
      
